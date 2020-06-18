@@ -5,6 +5,9 @@ Detecção de COVID-19 em imagens de raios-X com Keras, TensorFlow e Deep Learni
 - 100% de sensibilidade 
 - 92% de especificidade
 
+![Logo](dataset/covid-19/1-s2.0-S0929664620300449-gr2_lrg-c.jpg)
+
+
 ## ATENÇÃO
 - Os métodos e técnicas usados neste vídeo são apenas para fins educacionais. Esse não é um estudo cientificamente rigoroso, nem será publicado em uma revista científica´.
 
